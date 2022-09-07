@@ -46,8 +46,8 @@ git flow feature finish ${feature_name}
 ### hotfix 
 
 ```
+# start hotfix
 git flow hotfix start ${hot_fix_name}
-
 ...
 
 git commit 
